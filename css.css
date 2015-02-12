@@ -1,0 +1,40 @@
+#rencontre{
+  text-align: center;
+  font-size: 1.2em;
+}
+
+#mariage{
+  text-align: center;
+  font-size: 1.2em;
+  margin-top: 10px;
+}
+.coeur{
+  width: 30px;
+  height: 30px;
+}
+.title{
+  margin-top: 50px;
+  text-align: center;
+  font-size: 2em;
+}
+body{
+  background-color: #ea4c89;
+  color: #f6f6f6
+}
+.divNous{
+  margin-top: 1em;
+  text-align: center;
+}
+.nous{
+  border-radius: 10px;
+  width: 200px;
+  height: 200px;
+}
+.input {
+  text-align: center;
+}
+
+.input input{
+  width: 250px;
+  text-align: center;
+}
